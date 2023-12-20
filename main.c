@@ -6,3 +6,4 @@ void main() {
     printf("Hello, World!");
     return 0;
 }
+int a = 8;
