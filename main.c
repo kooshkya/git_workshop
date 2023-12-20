@@ -1,4 +1,5 @@
 #include <stdio.h> // second comment
+#include <stdio.h> // first comment
 // change from first branch
 // some other comment again
 // some comment
