@@ -2,6 +2,7 @@
 // change from first branch
 // some other comment again
 // some comment
+// GitHub Comment
 
 void main() {
     printf("Hello, World!");
